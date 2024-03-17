@@ -1,7 +1,7 @@
 # Projetos Alura Oracle - ONE
  > Oracle Next Education Oracle
 
-[Clique aqui para acessar o site](https://alura-flix-kohl.vercel.app/)
+[Clique aqui para acessar o site]()
 
 <h2 align="center">Youtube de vídeos | <span span style="color: #f59e0b;">Alura Play</span></h2>
 
@@ -24,3 +24,5 @@
 
     > Resources
     http://localhost:3000/videos (local do json remoto)
+
+[Acesse a API](https://my-json-server.typicode.com/)
