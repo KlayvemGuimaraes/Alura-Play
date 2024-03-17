@@ -1,7 +1,7 @@
 # Projetos Alura Oracle - ONE
  > Oracle Next Education Oracle
 
-[Clique aqui para acessar o site]()
+[Clique aqui para acessar o site](https://klayvemguimaraes.github.io/Alura-Play/)
 
 <h2 align="center">Youtube de vídeos | <span span style="color: #f59e0b;">Alura Play</span></h2>
 
